@@ -81,3 +81,5 @@ merge conflicts can occur if multiple people try to make changes to the same fil
 local changes I made;
 
 changes someone else made ... 
+
+simulating new merge conflict : changes made by me
